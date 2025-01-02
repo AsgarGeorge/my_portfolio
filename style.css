@@ -60,10 +60,12 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+
 }
 
 .logo:hover {
   cursor: default;
+  
 }
 
 /* HAMBURGER MENU */
